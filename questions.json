@@ -1,0 +1,115 @@
+{
+  "english": {
+    "beginner": [
+      {"question": "What is 2 + 2?", "options": ["3", "4", "5", "6"], "answer": "4"},
+      {"question": "What color is the sky?", "options": ["Green", "Red", "Blue", "Yellow"], "answer": "Blue"},
+      {"question": "Which animal barks?", "options": ["Cat", "Dog", "Cow", "Elephant"], "answer": "Dog"},
+      {"question": "How many days are in a week?", "options": ["5", "6", "7", "8"], "answer": "7"},
+      {"question": "Which is a fruit?", "options": ["Potato", "Carrot", "Apple", "Onion"], "answer": "Apple"},
+      {"question": "What is the color of a banana?", "options": ["Red", "Yellow", "Green", "Blue"], "answer": "Yellow"},
+      {"question": "Which shape has 3 sides?", "options": ["Square", "Circle", "Triangle", "Rectangle"], "answer": "Triangle"},
+      {"question": "What sound does a cat make?", "options": ["Meow", "Bark", "Roar", "Neigh"], "answer": "Meow"},
+      {"question": "How many fingers do humans have?", "options": ["8", "10", "12", "14"], "answer": "10"},
+      {"question": "What do bees make?", "options": ["Milk", "Honey", "Silk", "Wax"], "answer": "Honey"}
+    ],
+    "intermediate": [
+      {"question": "What is the capital of France?", "options": ["London", "Berlin", "Paris", "Madrid"], "answer": "Paris"},
+      {"question": "What planet is the Red Planet?", "options": ["Earth", "Mars", "Jupiter", "Saturn"], "answer": "Mars"},
+      {"question": "Who wrote 'Romeo and Juliet'?", "options": ["Shakespeare", "Wordsworth", "Dickens", "Hemingway"], "answer": "Shakespeare"},
+      {"question": "Which is the largest ocean?", "options": ["Atlantic", "Indian", "Arctic", "Pacific"], "answer": "Pacific"},
+      {"question": "How many continents are there?", "options": ["5", "6", "7", "8"], "answer": "7"},
+      {"question": "What gas do humans need to breathe?", "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"], "answer": "Oxygen"},
+      {"question": "Who painted the Mona Lisa?", "options": ["Van Gogh", "Picasso", "Leonardo da Vinci", "Michelangelo"], "answer": "Leonardo da Vinci"},
+      {"question": "In which country is the Taj Mahal located?", "options": ["India", "Pakistan", "Nepal", "Bangladesh"], "answer": "India"},
+      {"question": "What is the boiling point of water in Celsius?", "options": ["90", "95", "100", "105"], "answer": "100"},
+      {"question": "What is the square root of 81?", "options": ["7", "8", "9", "10"], "answer": "9"}
+    ],
+    "difficult": [
+      {"question": "What is the square root of 256?", "options": ["12", "14", "16", "18"], "answer": "16"},
+      {"question": "Who developed the theory of relativity?", "options": ["Newton", "Tesla", "Einstein", "Bohr"], "answer": "Einstein"},
+      {"question": "Which element has the chemical symbol 'Fe'?", "options": ["Fluorine", "Iron", "Zinc", "Copper"], "answer": "Iron"},
+      {"question": "Which year did World War II end?", "options": ["1940", "1942", "1945", "1950"], "answer": "1945"},
+      {"question": "What is the derivative of sin(x)?", "options": ["cos(x)", "-cos(x)", "tan(x)", "-sin(x)"], "answer": "cos(x)"},
+      {"question": "What is the capital of Australia?", "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"], "answer": "Canberra"},
+      {"question": "Who discovered penicillin?", "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Isaac Newton"], "answer": "Alexander Fleming"},
+      {"question": "What is the longest bone in the human body?", "options": ["Tibia", "Femur", "Humerus", "Fibula"], "answer": "Femur"},
+      {"question": "Which element has atomic number 1?", "options": ["Oxygen", "Helium", "Hydrogen", "Carbon"], "answer": "Hydrogen"},
+      {"question": "Who was the first person in space?", "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"], "answer": "Yuri Gagarin"}
+    ]
+  },
+  "hindi": {
+    "beginner": [
+      {"question": "2 + 2 कितना होता है?", "options": ["3", "4", "5", "6"], "answer": "4"},
+      {"question": "आसमान का रंग क्या है?", "options": ["हरा", "नीला", "लाल", "पीला"], "answer": "नीला"},
+      {"question": "कौन सा जानवर भौंकता है?", "options": ["बिल्ली", "कुत्ता", "गाय", "हाथी"], "answer": "कुत्ता"},
+      {"question": "सप्ताह में कितने दिन होते हैं?", "options": ["5", "6", "7", "8"], "answer": "7"},
+      {"question": "निम्न में से कौन सा फल है?", "options": ["आलू", "सेब", "गाजर", "प्याज"], "answer": "सेब"},
+      {"question": "केले का रंग क्या होता है?", "options": ["लाल", "पीला", "हरा", "नीला"], "answer": "पीला"},
+      {"question": "तीन भुजाओं वाली आकृति कौन सी है?", "options": ["वर्ग", "वृत्त", "त्रिभुज", "आयत"], "answer": "त्रिभुज"},
+      {"question": "बिल्ली कैसी आवाज़ करती है?", "options": ["म्याऊं", "भौंक", "गरज", "हिनहिनाहट"], "answer": "म्याऊं"},
+      {"question": "मनुष्य के पास कितनी उंगलियाँ होती हैं?", "options": ["8", "10", "12", "14"], "answer": "10"},
+      {"question": "मधुमक्खी क्या बनाती है?", "options": ["दूध", "शहद", "रेशम", "मوم"], "answer": "शहद"}
+    ],
+    "intermediate": [
+      {"question": "फ्रांस की राजधानी क्या है?", "options": ["लंदन", "बर्लिन", "पेरिस", "माद्रिद"], "answer": "पेरिस"},
+      {"question": "लाल ग्रह किसे कहा जाता है?", "options": ["पृथ्वी", "मंगल", "बृहस्पति", "शनि"], "answer": "मंगल"},
+      {"question": "'रोमियो और जूलियट' किसने लिखा?", "options": ["शेक्सपीयर", "वर्ड्सवर्थ", "डिकेन्स", "हेमिंग्वे"], "answer": "शेक्सपीयर"},
+      {"question": "सबसे बड़ा महासागर कौन सा है?", "options": ["अटलांटिक", "हिंद", "आर्कटिक", "प्रशांत"], "answer": "प्रशांत"},
+      {"question": "दुनिया में कितने महाद्वीप हैं?", "options": ["5", "6", "7", "8"], "answer": "7"},
+      {"question": "मनुष्य को सांस लेने के लिए कौन सा गैस चाहिए?", "options": ["कार्बन डाइऑक्साइड", "ऑक्सीजन", "नाइट्रोजन", "हाइड्रोजन"], "answer": "ऑक्सीजन"},
+      {"question": "मोनालिसा किसने बनाई?", "options": ["वैन गॉग", "पिकासो", "लियोनार्डो दा विंची", "माइकल एंजेलो"], "answer": "लियोनार्डो दा विंची"},
+      {"question": "ताजमहल किस देश में है?", "options": ["भारत", "पाकिस्तान", "नेपाल", "बांग्लादेश"], "answer": "भारत"},
+      {"question": "पानी कितने डिग्री सेल्सियस पर उबलता है?", "options": ["90", "95", "100", "105"], "answer": "100"},
+      {"question": "81 का वर्गमूल क्या है?", "options": ["7", "8", "9", "10"], "answer": "9"}
+    ],
+    "difficult": [
+      {"question": "256 का वर्गमूल क्या है?", "options": ["12", "14", "16", "18"], "answer": "16"},
+      {"question": "सापेक्षता का सिद्धांत किसने विकसित किया?", "options": ["न्यूटन", "टेस्ला", "आइंस्टीन", "बोहर"], "answer": "आइंस्टीन"},
+      {"question": "'Fe' रासायनिक प्रतीक किस तत्व का है?", "options": ["फ्लोरीन", "लोहा", "जिंक", "तांबा"], "answer": "लोहा"},
+      {"question": "किस वैज्ञानिक ने रेडियोधर्मिता की खोज की?", "options": ["मारिया क्यूरी", "आइंस्टीन", "न्यूटन", "टेस्ला"], "answer": "मारिया क्यूरी"},
+      {"question": "भारत का सबसे लंबा नदी कौन सा है?", "options": ["गंगा", "यमुना", "सिंधु", "ब्रह्मपुत्र"], "answer": "गंगा"},
+      {"question": "कंप्यूटर की मूल इकाई क्या है?", "options": ["बाइट", "बिट", "पिक्सेल", "बैंडविड्थ"], "answer": "बिट"},
+      {"question": "तत्त्व विज्ञान में परमाणु का आविष्कार किसने किया?", "options": ["डाल्टन", "रदरफोर्ड", "थॉमसन", "बोर"], "answer": "डाल्टन"},
+      {"question": "प्रथम संविधान सभा का अध्यक्ष कौन था?", "options": ["महात्मा गांधी", "डॉ. राजेंद्र प्रसाद", "सुभाष चंद्र बोस", "जवाहरलाल नेहरू"], "answer": "डॉ. राजेंद्र प्रसाद"},
+      {"question": "वातावरण में सबसे अधिक मात्रा में कौन सा गैस होता है?", "options": ["ऑक्सीजन", "नाइट्रोजन", "कार्बन डाइऑक्साइड", "हीलियम"], "answer": "नाइट्रोजन"}
+    ]
+  },    
+  "french": {
+    "beginner": [
+      {"question": "Combien font 2 + 2 ?", "options": ["3", "4", "5", "6"], "answer": "4"},
+      {"question": "Quelle est la couleur du ciel ?", "options": ["Vert", "Rouge", "Bleu", "Jaune"], "answer": "Bleu"},
+      {"question": "Quel animal aboie ?", "options": ["Chat", "Chien", "Vache", "Éléphant"], "answer": "Chien"},
+      {"question": "Combien de jours y a-t-il dans une semaine ?", "options": ["5", "6", "7", "8"], "answer": "7"},
+      {"question": "Lequel est un fruit ?", "options": ["Pomme de terre", "Carotte", "Pomme", "Oignon"], "answer": "Pomme"},
+      {"question": "Quelle est la couleur d'une banane ?", "options": ["Rouge", "Jaune", "Verte", "Bleue"], "answer": "Jaune"},
+      {"question": "Quelle forme a 3 côtés ?", "options": ["Carré", "Cercle", "Triangle", "Rectangle"], "answer": "Triangle"},
+      {"question": "Quel bruit fait un chat ?", "options": ["Miaou", "Ouaf", "Rugissement", "Hennissement"], "answer": "Miaou"},
+      {"question": "Combien de doigts ont les humains ?", "options": ["8", "10", "12", "14"], "answer": "10"},
+      {"question": "Que fabriquent les abeilles ?", "options": ["Lait", "Miel", "Soie", "Cire"], "answer": "Miel"}
+    ],
+    "intermediate": [
+      {"question": "Quelle est la capitale de la France ?", "options": ["Londres", "Berlin", "Paris", "Madrid"], "answer": "Paris"},
+      {"question": "Quelle planète est la planète rouge ?", "options": ["Terre", "Mars", "Jupiter", "Saturne"], "answer": "Mars"},
+      {"question": "Qui a écrit 'Roméo et Juliette' ?", "options": ["Shakespeare", "Wordsworth", "Dickens", "Hemingway"], "answer": "Shakespeare"},
+      {"question": "Quel est le plus grand océan ?", "options": ["Atlantique", "Indien", "Arctique", "Pacifique"], "answer": "Pacifique"},
+      {"question": "Combien y a-t-il de continents ?", "options": ["5", "6", "7", "8"], "answer": "7"},
+      {"question": "Quel gaz les humains doivent-ils respirer ?", "options": ["Dioxyde de carbone", "Oxygène", "Azote", "Hydrogène"], "answer": "Oxygène"},
+      {"question": "Qui a peint la Joconde ?", "options": ["Van Gogh", "Picasso", "Léonard de Vinci", "Michel-Ange"], "answer": "Léonard de Vinci"},
+      {"question": "Dans quel pays se trouve le Taj Mahal ?", "options": ["Inde", "Pakistan", "Népal", "Bangladesh"], "answer": "Inde"},
+      {"question": "Quel est le point d'ébullition de l'eau en Celsius ?", "options": ["90", "95", "100", "105"], "answer": "100"},
+      {"question": "Quelle est la racine carrée de 81 ?", "options": ["7", "8", "9", "10"], "answer": "9"}
+    ],
+    "difficult": [
+      {"question": "Quelle est la racine carrée de 256 ?", "options": ["12", "14", "16", "18"], "answer": "16"},
+      {"question": "Qui a développé la théorie de la relativité ?", "options": ["Newton", "Tesla", "Einstein", "Bohr"], "answer": "Einstein"},
+      {"question": "Quel élément a pour symbole chimique 'Fe' ?", "options": ["Fluor", "Fer", "Zinc", "Cuivre"], "answer": "Fer"},
+      {"question": "En quelle année la Seconde Guerre mondiale s'est-elle terminée ?", "options": ["1940", "1942", "1945", "1950"], "answer": "1945"},
+      {"question": "Quelle est la dérivée de sin(x) ?", "options": ["cos(x)", "-cos(x)", "tan(x)", "-sin(x)"], "answer": "cos(x)"},
+      {"question": "Quelle est la capitale de l'Australie ?", "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"], "answer": "Canberra"},
+      {"question": "Qui a découvert la pénicilline ?", "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Isaac Newton"], "answer": "Alexander Fleming"},
+      {"question": "Quel est le plus long os du corps humain ?", "options": ["Tibia", "Fémur", "Humérus", "Fibula"], "answer": "Fémur"},
+      {"question": "Quel élément a le numéro atomique 1 ?", "options": ["Oxygène", "Hélium", "Hydrogène", "Carbone"], "answer": "Hydrogène"},
+      {"question": "Qui a été la première personne dans l'espace ?", "options": ["Neil Armstrong", "Buzz Aldrin", "Youri Gagarine", "Alan Shepard"], "answer": "Youri Gagarine"}
+    ]
+  }
+}
